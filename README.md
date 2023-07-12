@@ -1,4 +1,4 @@
-# spk-metode-saw-php
+# spk-barang-metode-saw-php
 <img src="https://github.com/ahmadbadri25/dokumentasi/blob/eeaadd396b1c922d212bc94757e4be8641080716/supplier.png" alt="">
 ini adalah tampilannya dasboard dari aplikasi ini <br>
 jika ingin memakai nya ikutin tutorial ini<br>
