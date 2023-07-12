@@ -1,5 +1,5 @@
 # spk-metode-saw-php
-<a href="https://github.com/ahmadbadri25/dokumentasi/blob/eeaadd396b1c922d212bc94757e4be8641080716/supplier.png"></a> <br>
+<a href="https://github.com/ahmadbadri25/dokumentasi/blob/eeaadd396b1c922d212bc94757e4be8641080716/supplier.png"></a> 
 ini adalah tampilannya dasboard dari aplikasi ini <br>
 jika ingin memakai nya ikutin tutorial ini<br>
 1. download dulu semua file nya<br>
